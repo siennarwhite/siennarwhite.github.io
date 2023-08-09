@@ -1,17 +1,51 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
+<style type="text/css" rel="stylesheet">
+.header {
+  background:#988BA9;
+  border-radius:10px;
+  color:white;
+  padding-left:3%;
+  padding-right:3%;
+  padding-bottom:1%;
+  padding-top:1%;
+  width:40%;
+  margin-bottom:2%;
+  margin-top:2%;
+  font-size: 1.2em;
+}
+
+.header h2 {
+  font-size: 1.2em;
+}
+
+h3 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+
+<div class='header' style="margin-top:3%">
 
 ## RESEARCH EXPERIENCE
 
-### Research Experience
+</div>
 
 - **University of California, Berkeley**, Berkeley, California \
   *Ph.D. Student, Environmental Engineering* \
@@ -52,7 +86,11 @@ redirect_from:
   - Performed statistical analysis of sedimentation budgets for San Francisco Bay. Organized fieldwork in San Francisco Bay and calibrated/operated various instruments, including ADVs, ADCPs, RBRs, and thermistors.
   - Supervisors: Oliver Fringer and Joe Adelson
 
+<div class='header'>
+
 ## Education
+
+</div>
 
 **Stanford University**, Stanford, California  
 *September 2015 -- June 2019*
@@ -65,13 +103,19 @@ redirect_from:
   
   - Thesis: A Numerical Model for Sediment Flux and Floccation in San Francisco Bay. Ran a coupled hydrodynamic + sediment model (DFlow-FM + DELWAQ) to calculate sediment transport pathways and budgets in South San Francisco Bay.
 
+<div class='header'>
 
 ## Skills
 
+</div>
+
 Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic modelling (incl. DFlow-FM, DELWAQ), LINUX/UNIX systems, GIT/version control, UAV pilot license, technical + long-form writing
 
+<div class='header'>
 
 ## Publications & Presentations
+
+</div> 
 
 ### Technical Reports
 
@@ -93,7 +137,11 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 
 - **Sienna White**, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
 
+<div class='header'>
+
 ## Awards & Scholarships
+
+</div>
 
 - **Firestone Medal** \hfill `2019`
   - Given to top 10\% of honors theses at Stanford.
@@ -107,8 +155,11 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 - **US Presidential Scholar** \hfill `2015`
   - Awarded by the Department of Education to the top graduating boy and girl in each state.
 
+<div class='header'>
 
 ## Other Work Experience
+
+</div>
 
 - **Teaching Assistant**, Stanford University, California \hfill `2016`--`2019`
   - Graded and/or helped teach several courses, including Energy Options for the 21st Century, Modeling Environmental Flows, and Storycraft (a theater class on personal storytelling).
@@ -122,8 +173,11 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 - **Community radio**, Radio Boise, Boise, ID \hfill `2014`--`2020`
   - Ongoing volunteer with Radio Boise, Boise's community radio station. Work includes podcast development, music programming, & grant writing.
 
+<div class='header'>
 
 ## References
+
+</div>
 
 - **Professor Oliver Fringer**
   - Professor of Civil and Environmental Engineering, Stanford University
@@ -138,8 +192,11 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
   - jadelson@stanford.edu
   - +1 (918) 289-8464
 
+<div class='header'>
 
 ## Interests
+
+</div>
 
 - Community radio
 - Social justice
@@ -148,55 +205,3 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 - Urban sustainability
 
 
-
-
-======
-Will delete the following if 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
