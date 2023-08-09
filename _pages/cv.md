@@ -43,8 +43,10 @@ h3 {
 
 <div class='header' style="margin-top:3%">
 
-## RESEARCH EXPERIENCE
+<h2>
+RESEARCH EXPERIENCE
 
+</h2>
 </div>
 
 - **University of California, Berkeley**, Berkeley, California \
@@ -87,9 +89,9 @@ h3 {
   - Supervisors: Oliver Fringer and Joe Adelson
 
 <div class='header'>
-
-## Education
-
+<h2>
+Education
+</h2>
 </div>
 
 **Stanford University**, Stanford, California  
