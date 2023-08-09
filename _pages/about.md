@@ -27,12 +27,12 @@ redirect_from:
 
 <div class='column'>
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 
-Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor
- [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor <a href="https://chow.ce.berkeley.edu/">Tina Chow</a>
+<!-- the <a> tag is an html link tag. We need it here rather than the []() syntax because I've included a column layout. In other places you should be able to use the []() syntax, for example, [Tina Chow](https://chow.ce.berkeley.edu/), without issue --> 
+on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
-Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
+Before I started my PhD at Berkeley, I worked for two years at the <a href='https://www.sfei.org/'>San Francisco Estuary Institute</a> on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
 
 </div>
 
