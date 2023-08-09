@@ -26,14 +26,18 @@ redirect_from:
 <div class='row'>
 
 <div class='column'>
-Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
+
+<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor
+ [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
 Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
 
 </div>
 
 <div class='column'>
-<img src='../images/headshot.jpeg' width='60%' alt='Here is what I look like' style='border-radius:2%'>
+<img src='../images/headshot.jpeg' alt='Here is what I look like' style='border-radius:2%'>
 </div>
 </div>
 
