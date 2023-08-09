@@ -48,22 +48,6 @@ Provide a brief introduction to your science project. Explain the purpose and go
 
 # Research 
 
-# CV
-
-
-# Hypothesis
-
-State your hypothesis, and explain your reasoning for why you believe it to be true.
-
-# Methods
-
-Describe the methods you used to conduct your experiment or investigation. This should include a description of the materials you used, the procedures you followed, and any other important details.
-
-# Results
-
-Present your results in the form of tables and plots. Make sure to label your axes and provide any necessary legends or captions. You may want to use R code chunks to generate your plots. Here's an example of how to do that:
-
-
 
 
 
