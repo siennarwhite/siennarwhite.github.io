@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! Welcome to my website!"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,44 @@ redirect_from:
   - /about.html
 ---
 
+<style type="text/css" rel="stylesheet">
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class='row'>
+
+<div class='column'>
 Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
-Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
+Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
 
+</div>
 
-![Here is what I look like](/images/headshot.jpeg) 
+<div class='column'>
+<img src='../images/headshot.jpeg' width='60%' alt='Here is what I look like' style='border-radius:2%'>
+</div>
+</div>
 
-
-#
 # Work on San Francisco Bay and the Delta
 
 Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
 
-```{r, fig.width=0.5\textwidth}
-knitr::include_graphics(/images/gp.jpg) ```
 
+# Research 
 
-![Here is what I look like ... smaller ](/images/headshot.jpeg){width=400px}
+# CV
 
-
-![Here is what I look like](/images/headshot.jpeg) 
 
 # Hypothesis
 
@@ -42,11 +59,6 @@ Describe the methods you used to conduct your experiment or investigation. This 
 
 Present your results in the form of tables and plots. Make sure to label your axes and provide any necessary legends or captions. You may want to use R code chunks to generate your plots. Here's an example of how to do that:
 
-
-
-
-
-![Here is what I look like](/images/gp.png) 
 
 
 
@@ -88,9 +100,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-
+![Editing a markdown file for a talk](../images/editing-talk.png)
 
 
 For more info
