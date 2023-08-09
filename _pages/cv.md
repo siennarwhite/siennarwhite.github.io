@@ -105,15 +105,18 @@ h3 {
 
 <div class='header'>
 
-## Skills
+<h2>
+Skills
+</h2>
 
 </div>
 
 Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic modelling (incl. DFlow-FM, DELWAQ), LINUX/UNIX systems, GIT/version control, UAV pilot license, technical + long-form writing
 
 <div class='header'>
-
-## Publications & Presentations
+<h2>
+Publications & Presentations
+</h2>
 
 </div> 
 
@@ -138,9 +141,10 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 - **Sienna White**, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
 
 <div class='header'>
+<h2>
 
-## Awards & Scholarships
-
+Awards & Scholarships
+</h2>
 </div>
 
 - **Firestone Medal** \hfill `2019`
@@ -157,7 +161,9 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 
 <div class='header'>
 
-## Other Work Experience
+<h2>
+Other Work Experience
+</h2>
 
 </div>
 
@@ -175,7 +181,9 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 
 <div class='header'>
 
-## References
+<h2>
+References
+</h2>
 
 </div>
 
@@ -194,7 +202,9 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 
 <div class='header'>
 
-## Interests
+<h2>
+Interests
+</h2>
 
 </div>
 
