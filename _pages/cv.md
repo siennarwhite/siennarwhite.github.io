@@ -45,6 +45,7 @@ h3 {
 <h2 class='header'>
 Research Experience
 </h2>
+</div>
 
 - **University of California, Berkeley**, Berkeley, California \
   *Ph.D. Student, Environmental Engineering* \
