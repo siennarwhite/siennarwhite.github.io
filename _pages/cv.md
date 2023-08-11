@@ -20,11 +20,11 @@ redirect_from:
   width:40%;
   margin-bottom:2%;
   margin-top:2%;
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 .header h2 {
-  font-size: 1.2em;
+  font-size: 1.3em;
 }
 
 h3 {
@@ -41,17 +41,14 @@ h3 {
 </style>
 
 
-<div class='header' style="margin-top:3%">
-
-<h2>
-RESEARCH EXPERIENCE
-
+<div style='margin-top:2%'>
+<h2 class='header'>
+Research Experience
 </h2>
-</div>
 
 - **University of California, Berkeley**, Berkeley, California \
   *Ph.D. Student, Environmental Engineering* \
-  August 01, 2022 --
+  August 01, 2022 -- Present
 
   - Currently, I am a Ph.D. working with Professor Tina Chow to develop data assimilation applications for high-resolution wildfire smoke models.
 
@@ -88,11 +85,9 @@ RESEARCH EXPERIENCE
   - Performed statistical analysis of sedimentation budgets for San Francisco Bay. Organized fieldwork in San Francisco Bay and calibrated/operated various instruments, including ADVs, ADCPs, RBRs, and thermistors.
   - Supervisors: Oliver Fringer and Joe Adelson
 
-<div class='header'>
-<h2>
+<h2 class='header'>
 Education
 </h2>
-</div>
 
 **Stanford University**, Stanford, California  
 *September 2015 -- June 2019*
@@ -105,22 +100,17 @@ Education
   
   - Thesis: A Numerical Model for Sediment Flux and Floccation in San Francisco Bay. Ran a coupled hydrodynamic + sediment model (DFlow-FM + DELWAQ) to calculate sediment transport pathways and budgets in South San Francisco Bay.
 
-<div class='header'>
-
-<h2>
+<h2 class='header'>
 Skills
 </h2>
 
-</div>
 
 Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic modelling (incl. DFlow-FM, DELWAQ), LINUX/UNIX systems, GIT/version control, UAV pilot license, technical + long-form writing
 
-<div class='header'>
-<h2>
+<h2 class='header'> 
 Publications & Presentations
 </h2>
 
-</div> 
 
 ### Technical Reports
 
@@ -142,12 +132,9 @@ Publications & Presentations
 
 - **Sienna White**, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
 
-<div class='header'>
-<h2>
-
+<h2 class='header'>
 Awards & Scholarships
 </h2>
-</div>
 
 - **Firestone Medal** \hfill `2019`
   - Given to top 10\% of honors theses at Stanford.
@@ -161,13 +148,11 @@ Awards & Scholarships
 - **US Presidential Scholar** \hfill `2015`
   - Awarded by the Department of Education to the top graduating boy and girl in each state.
 
-<div class='header'>
 
-<h2>
+<h2 class='header'>
 Other Work Experience
 </h2>
 
-</div>
 
 - **Teaching Assistant**, Stanford University, California \hfill `2016`--`2019`
   - Graded and/or helped teach several courses, including Energy Options for the 21st Century, Modeling Environmental Flows, and Storycraft (a theater class on personal storytelling).
@@ -181,13 +166,11 @@ Other Work Experience
 - **Community radio**, Radio Boise, Boise, ID \hfill `2014`--`2020`
   - Ongoing volunteer with Radio Boise, Boise's community radio station. Work includes podcast development, music programming, & grant writing.
 
-<div class='header'>
 
-<h2>
+<h2 class='header'>
 References
 </h2>
 
-</div>
 
 - **Professor Oliver Fringer**
   - Professor of Civil and Environmental Engineering, Stanford University
@@ -202,13 +185,11 @@ References
   - jadelson@stanford.edu
   - +1 (918) 289-8464
 
-<div class='header'>
 
-<h2>
+<h2 class='header'>
 Interests
 </h2>
 
-</div>
 
 - Community radio
 - Social justice
