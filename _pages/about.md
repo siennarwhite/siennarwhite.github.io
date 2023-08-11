@@ -23,28 +23,39 @@ redirect_from:
 }
 </style>
 
+
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
+
+Before I started my PhD at Berkeley, I worked for two years at the [San Francisco Estuary Institute](https://www.sfei.org/) on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
+
+
+# Work on San Francisco Bay and the Delta
+
+<!--  this is an example of a column layout w/ an image and text --> 
+
 <div class='row'>
 
 <div class='column'>
-
 
 Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor <a href="https://chow.ce.berkeley.edu/">Tina Chow</a>
 <!-- the <a> tag is an html link tag. We need it here rather than the []() syntax because I've included a column layout. In other places you should be able to use the []() syntax, for example, [Tina Chow](https://chow.ce.berkeley.edu/), without issue --> 
 on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
-Before I started my PhD at Berkeley, I worked for two years at the <a href='https://www.sfei.org/'>San Francisco Estuary Institute</a> on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's occasionally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime! 
-
-</div>
-
+</div> 
 <div class='column'>
-<img src='../images/headshot.jpeg' alt='Here is what I look like' style='border-radius:2%'>
+
+<!-- the figure element is only needed here if you want a caption --> 
+
+<figure>
+<img src='../images/noaa_image.png' alt='Chlorophyll levels in the San Francisco Bay' style='border-radius:2%' caption='Image: National Oceanic and Atmospheric Administration (NOAA)'>
+<figcaption>Image: National Oceanic and Atmospheric Administration (NOAA)</figcaption>
+</figure>
+<!-- end column element --> 
 </div>
+
+
+<!-- end row element --> 
 </div>
-
-# Work on San Francisco Bay and the Delta
-
-Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
-
 
 # Research 
 
