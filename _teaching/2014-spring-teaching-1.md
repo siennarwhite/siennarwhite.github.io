@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Lead Instruction, Mt. Tamalpais College"
 collection: teaching
-type: "Undergraduate course"
+type: "Environmental Science"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "San Quentin State Prison"
+date: 2024-01-01
+location: "San Quentin, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This spring, I am the lead instructor for the environmental science course at Mt. Tamalpais College, an accredited institution offering college-level courses to incarcerated students at San Quentin State Prison.
