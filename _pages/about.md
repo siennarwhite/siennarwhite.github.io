@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley (2021 - 2026, hopefully!), working with Professor Mark Stacey. I've written up some of my research experience below. For a more formal CV, see here. I'm grateful to be funded by the Computational Science Graduate Fellowship through DOE. Please feel free to reach out to me at any time (thoughts on research! potential collaboration! application review for the CSGF! egregious typos on this site!) at _sienna w at berkeley dot edu_ .
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley (2021 - 2026, hopefully!), working with Professor Mark Stacey. I've written up some of my research experience below. For a more formal CV, [see here](https://drive.google.com/file/d/10ZswhyKxlEqKLYjipjIxt-n_O4ZbNFf8/view?usp=sharing). I'm grateful to be funded by the Computational Science Graduate Fellowship through DOE. Please feel free to reach out to me at any time (thoughts on research! potential collaboration! application review for the CSGF! egregious typos on this site!) at _sienna w at berkeley dot edu_ .
 
 **RESEARCH EXPERIENCES:**
 ----
