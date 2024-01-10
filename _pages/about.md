@@ -97,11 +97,6 @@ Sediment transport in San Francisco Bay
 
 
 
-![Here is what I look like](/images/headshot.jpeg) 
-
-
-![Here is what I look like](/images/headshot.jpeg) 
-
 Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
 Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
@@ -115,25 +110,7 @@ Before I started my PhD at Berkeley, I worked for two years at the San Francisco
 
 Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
 
-```{r, fig.width=0.1\textwidth}
-knitr::include_graphics(/images/gp.jpg) ```
 
-
-
-
-![Here is what I look like](/images/headshot.jpeg) 
-
-# Hypothesis
-
-State your hypothesis, and explain your reasoning for why you believe it to be true.
-
-# Methods
-
-Describe the methods you used to conduct your experiment or investigation. This should include a description of the materials you used, the procedures you followed, and any other important details.
-
-# Results
-
-Present your results in the form of tables and plots. Make sure to label your axes and provide any necessary legends or captions. You may want to use R code chunks to generate your plots. Here's an example of how to do that:
 
 
 
