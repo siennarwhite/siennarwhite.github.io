@@ -10,12 +10,8 @@ redirect_from:
 
 Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley (2021 - 2026, hopefully!), working with Professor Mark Stacey. I've written up some of my research experience below. For a more formal CV, see here. I'm grateful to be funded by the Computational Science Graduate Fellowship through DOE. Please feel free to reach out to me at any time (thoughts on research! potential collaboration! application review for the CSGF! egregious typos on this site!) at _sienna w at berkeley dot edu_ .
 
-![](/images/headshot.jpeg)
-
-
-RESEARCH EXPERIENCES:
-
-
+**RESEARCH EXPERIENCES:**
+----
 
 <span style="color:RebeccaPurple">Predicting harmful algal blooms in the Sacramento-San Joaquin Delta (Dissertation Research)</span>
 ----
@@ -69,9 +65,8 @@ Our work is publicly available here and here, but it's ocassinally hard to find,
 
 <span style="color:RosyBrown">River morphology @ TU Delft </span>
 ----
-From 2019-2020 I was awarded a Fulbright to perform river morphology research at the Technische Universiteit Delft with Prof. Astrid Blom. I worked on a project examining the effect of fixed beds (an engineering river intervention) on wide-scale morphodynamics on the Waal River using computational geospatial analysis in Python, QGIS, and MATLAB. This project involved close collaboration with Rijkswaterstaat, the Dutch water ministry.
+From 2019-2020 I was awarded a Fulbright to perform river morphology research at the Technische Universiteit Delft with Prof. Astrid Blom. I worked on a project examining the effect of fixed beds (an engineering river intervention) on wide-scale morphodynamics on the Waal River using computational geospatial analysis in Python, QGIS, and MATLAB. This project involved close collaboration with Rijkswaterstaat, the Dutch water ministry. You can read my [final report here](https://drive.google.com/file/d/1osy5mdc5EqUEFSjSawR-8azGdUZRpa88/view?usp=sharing)
  
- * link fixed layers report 
 
 ![Labeled fixed bed](/images/radius_NM_annotation.png)
 
@@ -88,8 +83,6 @@ Sediment transport in San Francisco Bay
 ![Fieldwork on San Francisco Bay ](/images/IMG_6533.jpg){width=800px}
 
 
-![Most of the waves in South Francisco Bay are fetch-limited. We parameterized their effects by modifying the shear stress.](/images/waves.png)
-
 
  I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. I finally got around to making a website, so if you found your way here, either on purpose or accident, I'm glad you made it! Feel free to reach out. 
 
@@ -100,23 +93,6 @@ Sediment transport in San Francisco Bay
 Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
 Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
-
-
-![Here is what I look like](/images/headshot.jpeg) 
-
-
-#
-# Work on San Francisco Bay and the Delta
-
-Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
-
-
-
-
-
-
-
-![Here is what I look like](/images/gp.png) 
 
 
 
